@@ -14,7 +14,7 @@
   </header>
 
   <section class="about">
-    <h2>saya juga seorang santri di MAN 2 KOTA BIMA yaitu di boardimg school dan sy juga termasuk ketua divisi humas di Boarding School MAN 2 KOTA BIMA</h2>
+    <h2>saya juga seorang santri di MAN 2 KOTA BIMA tepatnya di boarding school dan saya juga termasuk ketua divisi humas di Boarding School MAN 2 KOTA BIMA dan mungkin sebentar lagi akan selesai. jika kalian berminan masuk pondok/Boarding School man 2 kobi kontak saja saya di bawah</h2>
     <p>
       Ini adalah website pribadi saya.  
       Saya tertarik pada teknologi, desain, dan pengembangan web dan juga pada biologi.
@@ -36,7 +36,7 @@
 
   <footer>
     <p>© 2026 M.Raja Adil</p>
-  </footer>
+  </footer>mungkin hanya itu Thank All
 
 </body>
 </html>
