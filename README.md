@@ -14,10 +14,10 @@
   </header>
 
   <section class="about">
-    <h2>Tentang Saya</h2>
+    <h2>saya juga seorang santri di MAN 2 KOTA BIMA yaitu di boardimg school dan sy juga termasuk ketua divisi humas di Boarding School MAN 2 KOTA BIMA</h2>
     <p>
       Ini adalah website pribadi saya.  
-      Saya tertarik pada teknologi, desain, dan pengembangan web.
+      Saya tertarik pada teknologi, desain, dan pengembangan web dan juga pada biologi.
     </p>
   </section>
 
