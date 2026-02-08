@@ -24,9 +24,7 @@
   <section class="portfolio">
     <h2>Portofolio</h2>
     <ul>
-      <li>Website Portfolio</li>
-      <li>Desain UI</li>
-      <li>Project Web Sederhana</li>
+      <li>web ini di buat sebagai tugas</li>
     </ul>
   </section>
 
