@@ -30,7 +30,7 @@
 
   <section class="contact">
     <h2>Kontak</h2>
-    <p>Email: namakamu@email.com</p>
+    <p>Email: mrajaadil4@email.com</p>
     <p>Instagram: @_mrjaa_bill</p>
   </section>
 
