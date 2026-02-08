@@ -10,7 +10,7 @@
 
   <header>
     <h1>Halo, Saya [M. Raja Adil]</h1>
-    <p>Mahasiswa | Freelancer | Web Enthusiast</p>
+    <p>seorang pelajar di Man 2 KOTA BIMA</p>
   </header>
 
   <section class="about">
